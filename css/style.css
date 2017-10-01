@@ -748,7 +748,7 @@
 
 .ly-txt12 {
 	font-family: Microsoft YaHei;
-	font-size: 20px;
+	font-size: 16px;
 	text-indent:2em;
 	font-color: #000;
 	position: absolute;
@@ -919,7 +919,7 @@
 
 .ly-txt22 {
 	font-family: Microsoft YaHei;
-	font-size: 13px;
+	font-size: 9px;
 	text-indent:2em;
 	font-color: #000;
 	position: absolute;
@@ -1140,7 +1140,7 @@
 }
 .ly-img23{
 	position: absolute;
-	width: 100%;
+	width: 50%;
 	bottom: 0;
 }
 
@@ -1258,7 +1258,7 @@
 
 .ly-txt32 {
 	font-family: Microsoft YaHei;
-	font-size: 20px;
+	font-size: 15px;
 	text-indent:2em;
 	font-color: #000;
 	position: absolute;
@@ -1342,7 +1342,7 @@
 .ly-txt34 {
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 18px;
+	font-size: 15px;
 	font-color: #000;
 	position: absolute;
 	margin-left:30px;
@@ -1490,7 +1490,7 @@
 .ly-txt71 {
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 11px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
@@ -1624,7 +1624,7 @@
 .ly-txt72 {
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 11px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
@@ -1814,7 +1814,7 @@
 .ly-txt84 {
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 15px;
+	font-size: 16px;
 	font-color: #000;
 	position: absolute;
 	margin-left:30px;
@@ -1833,7 +1833,7 @@
 }
 .ly-txt90 {
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 10px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
@@ -1851,7 +1851,7 @@
 }
 .ly-txt91 {
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 12px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
@@ -2030,7 +2030,7 @@
 .ly-txt92 {
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 12px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
@@ -2070,7 +2070,7 @@
 .ly-txt93 {
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 11px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
