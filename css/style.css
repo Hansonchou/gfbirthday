@@ -833,7 +833,7 @@
 /* 盒子 */
 .ly-box21 {
 	width: 17%;
-	height: 700px;
+	height: 600px;
 	border: 2px #CCC;
 	background-color: #fff;
 	background-color: rgba(255,255,255,0.6);
@@ -897,6 +897,13 @@
 	width: 100%;
 	bottom: 0;
 }
+
+.ly-img502{
+	position: absolute;
+	width: 90%;
+	bottom: 0;
+}
+
 /*文本*/
 .ly-txt21 {
 	font-family: Microsoft YaHei;
@@ -931,6 +938,24 @@
 	opacity: 1;
 	transition-delay: 4s;
 }
+
+.ly-txt116 {
+	font-family: Microsoft YaHei;
+	font-size: 15px;
+	font-color: #000;
+	position: absolute;
+	left: 5%;
+	top: 8%;
+	opacity: 0;
+	transition: all 1s;
+}
+
+.active .ly-txt116 {
+	opacity: 1;
+	transition-delay: 4s;
+}
+
+
 
 /* 盒子 */
 .ly-box22 {
@@ -1514,7 +1539,7 @@
 .ly-txt100 {
 	
 	font-family: Microsoft YaHei;
-	font-size: 12px;
+	font-size: 12.4px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
